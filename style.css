@@ -1,0 +1,14 @@
+.h1{
+margin-bottom: -50px; 
+position: relative;
+top: 50px;
+bottom: 0;
+right: 0;
+left: 0;
+}
+
+
+.photo{
+width: 15%;
+margin: 10% 10% 0 7%;
+}
